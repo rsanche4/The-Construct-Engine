@@ -45,4 +45,8 @@ PgDn - Look Down
 
 - also go through the rendering logic and really make sure every component is ok and not weird or doing something that isn't needed
 
+- I guess the only question i have is how much do I want the user to mod. Personally I think the engine should just implement a first person right of the bat. Built in. Because these are the kind of experience that it can give you. You can do a walking sim basically also but it should be kept with a shooter in mind. So implement a bunch of things with that in mind. Maybe even build directly a game with it. And the engine is a mod on top of that. The point is this is the kind of games you can make with it etc.
+
 - Try to do this by end of summer if possible
+
+- When implementing it, also do some sort of parallel rendering so it draws things even faster
