@@ -37,7 +37,7 @@ PgDn - Look Down
 
 - If you could do a Duke Nukem Mission 1 Clone that would be great so include that with the engine to say hey you can technically build something like this with my engine, might not be as good but it is something! And only change the level so for the part that is the cinema showcase an anime or something, or you could build DSG again with 6 missions: Rooftop, School hallways, School lobby, City, Subway, Airport. Voice acting, etc. You know the good drill. 9.99 type dollars on Steam. Include in the game key easter egg locations: arcade machines for the original DSG, Lolas World of Wonders, Iva Somnia, the Stray Sheep bar even from catherine, Leblanc from P5, and the duke nukem classic cinema screen with duke nukem arcade and maybe the screen showing some anime or something. "I dont have time to play with myself" type comment whenseeing that. English subtitles. Realistic zombie art etc. (and make it so we need to find ammo for our gun so we have limited bullets)
 
-- Make it so that it's 512x512 for resolution, and allow for chaing height sectors so make it double or float so they can have variying heights and floor ceiling. Textures should be applied one side of wall, and they can change etc depending on what we want etc.
+- Make it so that it's 512x384 for resolution, and allow for chaing height sectors so make it double or float so they can have variying heights and floor ceiling. Textures should be applied one side of wall, and they can change etc depending on what we want etc.
 
 - Build it in C/C++ 
 
